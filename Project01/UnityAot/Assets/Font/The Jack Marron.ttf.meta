@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5b36477edc23df042a26053bfa47a01e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - THE JACK MARRON
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1ef5b12f9c350d4b8afe970ab82a200, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
